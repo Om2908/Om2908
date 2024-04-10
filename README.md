@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Engineering at the Birla Vishvakarma Mahavidyalaya Engineering College Anand Gujarat.\
+🎓 &nbsp;I'm currently studying Computer Engineering at the Chandubhai S. Patel Institute of Technology College Anand Gujarat.\
 ✍️ &nbsp;In my free time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at omitaliya2525@gmail.com! I'll try to respond as soon as I can.\
@@ -17,7 +17,7 @@
 
 - 📫 You can reach me on 
   - **Portfolio - [Om Italiya](https://parth-chovatiya.github.io/)**
-  - **Telegram - [@om_italiya](https://t.me/parth_chovatiya)**
+  - **Twitter - [@om_italiya](https://twitter.com/OmItaliya5)**
   - **Linkedin - [om-italiya](https://www.linkedin.com/in/om-italiya-0a68b3253/)**
 
 <img alt="Night Coding" src="https://github.com/parth-chovatiya/parth-chovatiya/blob/main/assets/Night-Coding.gif" align="right"/>
