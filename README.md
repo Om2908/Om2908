@@ -49,7 +49,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/parth-chovatiya">
+<a href="https://github.com/Om2908">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=parth-chovatiya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parth-chovatiya&layout=compact&langs_count=8&theme=algolia&hide=css,php"/>
 </a>
@@ -59,9 +59,9 @@
 
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://www.linkedin.com/in/om-italiya-0a68b3253/"><img src="https://img.shields.io/badge/-Parth%20Chovatiya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/om-italiya-0a68b3253/"><img src="https://img.shields.io/badge/-Om%20Italiya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:omitaliya2525@gmail.com"><img src="https://img.shields.io/badge/-omitaliya2525@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/_parth_chovatiya"><img src="https://img.shields.io/badge/-@parth_chovatiya-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/_om_italiya"><img src="https://img.shields.io/badge/-@om_italiya-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <!-- <a href="https://facebook.com/_parth_chovatiya"><img src="https://img.shields.io/badge/-@_parth_chovatiya-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
 <!-- <a href="https://www.pinterest.ca/_parth_chovatiya"><img src="https://img.shields.io/badge/-@_parth_chovatiya-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
 <!-- <a href="https://www.behance.net/_parth_chovatiya"><img src="https://img.shields.io/badge/-@_parth_chovatiya-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
