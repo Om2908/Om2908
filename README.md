@@ -61,9 +61,6 @@
 <!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/om-italiya-0a68b3253/"><img src="https://img.shields.io/badge/-Om%20Italiya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:omitaliya2525@gmail.com"><img src="https://img.shields.io/badge/-omitaliya2525@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/_om_italiya"><img src="https://img.shields.io/badge/-@om_italiya-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<!-- <a href="https://facebook.com/_parth_chovatiya"><img src="https://img.shields.io/badge/-@_parth_chovatiya-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
-<!-- <a href="https://www.pinterest.ca/_parth_chovatiya"><img src="https://img.shields.io/badge/-@_parth_chovatiya-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
-<!-- <a href="https://www.behance.net/_parth_chovatiya"><img src="https://img.shields.io/badge/-@_parth_chovatiya-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
+<a href="https://www.instagram.com/om_italiya_25"><img src="https://img.shields.io/badge/-@om_italiya-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=parth-chovatiya&label=Profile%20views&color=0e75b6&style=plastic" alt="Om Italiya" /> </p>
