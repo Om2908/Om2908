@@ -1,70 +1,75 @@
+<!-- ![Parth Chovatiya Banner](https://github.com/parth-chovatiya/parth-chovatiya/blob/main/gifs/parth-chovatiya.gif) -->
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Om+Italiya;" />
-</h1>
+<!-- <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Parth Chovatiya</h2></p> -->
+<h1 align="center">Hi ✌️, I'm Parth Chovatiya</h1>
 
-<h3 align="center">A Engineer Student and MERN developer . I am passionate to try and learn new technologies.</h3>
+<!-- ## 👋 &nbsp;Hey there! I'm Parth Chovatiya -->
 
-<br/>
+### 👨🏻‍💻 &nbsp;About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Om2908&label=Profile%20views&color=0e75b6&style=flat" alt="Om2908"/> </p>
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Engineering at the Birla Vishvakarma Mahavidyalaya Engineering College Anand Gujarat.\
+✍️ &nbsp;In my free time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at parthchovatiya3@gmail.com! I'll try to respond as soon as I can.\
+⚡ &nbsp;Fun fact <b>I'm a noob</b>.
 
-- 🔭 I’m also working on ** MERN Stack**
+<!-- 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\ -->
+<!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.parth-chovatiya.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
-- 👨‍💻 All of my projects repositories are available at [My Github](github.com/Om2908)
+- 📫 You can reach me on 
+  - **Portfolio - [Parth Chovatiya](https://parth-chovatiya.github.io/)**
+  - **Telegram - [@parth_chovatiya](https://t.me/parth_chovatiya)**
+  - **Linkedin - [parth-chovatiya](https://www.linkedin.com/in/parth-chovatiya/)**
 
-- 📝 I regularly write articles on [my medium blogs](https://medium.com/@omitaliya2525)
+<img alt="Night Coding" src="https://github.com/parth-chovatiya/parth-chovatiya/blob/main/assets/Night-Coding.gif" align="right"/>
 
-- 💬 Ask me about ** Mern Stack **
+### 🛠 &nbsp;Tech Stack
 
-- 📫 To contact me **[mail](mailto:omitaliya2525@gmail.com?)** or [Linkedin](https://www.linkedin.com/in/om-italiya-0a68b3253/)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=mongodb)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;\
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; -->
+<!-- ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\ -->
+<!-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; -->
+<!-- ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\ -->
+<!-- ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp; -->
+<!-- ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\ -->
+<!-- ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp; -->
+<!-- ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp; -->
+<!-- ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign) -->
 
-- 📄 Know about my experiences [than check my resume](https://drive.google.com/file/d/1_abvfelHEYgd53ygxAG-9Yz7PhsTKUcH/view?usp=drive_link)
+### ⚙️ &nbsp;GitHub Analytics
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/om-italiya-0a68b3253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishu-k-bhingradiya-667668229/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/om_italiya_25?igsh=bTV1cmhkMGduNDdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omitaliya" height="30" width="40" /></a>
-  <a href="https://medium.com/@omitaliya2525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="omitaliya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/omitaliya2525" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="omitaliya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/21ce040_om" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21ce040" height="30" width="40" /></a>
-<a href="https://leetcode.com/om2908/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishu21it013" height="30" width="40" /></a>
+<p align="center">
+<a href="https://github.com/parth-chovatiya">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=parth-chovatiya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parth-chovatiya&layout=compact&langs_count=8&theme=algolia&hide=css,php"/>
+</a>
 </p>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,docker,mysql,vscode,vercel,github,git" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,tailwind,bootstrap" /><br>
-</div>
+### 🤝🏻 &nbsp;Connect with Me
 
-<br/>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Om2908&show_icons=true&locale=en" alt="Om2908" />
-        <br/><br/>
- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Om2908&theme=2077" height="180em" />
-             
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Om2908&theme=2077" height="180em" />
-<br/><br/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Om2908&theme=2077" height="180em" />
-</div>
-
-<br/><br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 Let Snake Eat 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-
+<p align="center">
+<!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://linkedin.com/in/parth-chovatiya"><img src="https://img.shields.io/badge/-Parth%20Chovatiya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:parthchovatiya3@gmail.com"><img src="https://img.shields.io/badge/-parthchovatiya3@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/_parth_chovatiya"><img src="https://img.shields.io/badge/-@parth_chovatiya-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<!-- <a href="https://facebook.com/_parth_chovatiya"><img src="https://img.shields.io/badge/-@_parth_chovatiya-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
+<!-- <a href="https://www.pinterest.ca/_parth_chovatiya"><img src="https://img.shields.io/badge/-@_parth_chovatiya-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
+<!-- <a href="https://www.behance.net/_parth_chovatiya"><img src="https://img.shields.io/badge/-@_parth_chovatiya-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=parth-chovatiya&label=Profile%20views&color=0e75b6&style=plastic" alt="Parth Chovatiya" /> </p>
