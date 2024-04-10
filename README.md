@@ -13,10 +13,10 @@
 ⚡ &nbsp;Fun fact <b>I'm a noob</b>.
 
 <!-- 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\ -->
-<!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.parth-chovatiya.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
+<!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.om-italiya.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
 - 📫 You can reach me on 
-  - **Portfolio - [Om Italiya](https://parth-chovatiya.github.io/)**
+  - **Portfolio - [Om Italiya](https://twitter.com/OmItaliya5)**
   - **Twitter - [@om_italiya](https://twitter.com/OmItaliya5)**
   - **Linkedin - [om-italiya](https://www.linkedin.com/in/om-italiya-0a68b3253/)**
 
