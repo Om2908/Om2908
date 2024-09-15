@@ -16,7 +16,7 @@
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.om-italiya.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
 - 📫 You can reach me on 
-  - **Portfolio - [Om Italiya](https://twitter.com/OmItaliya5)**
+  - **Portfolio - [Om Italiya](https://omitaliya.vercel.app/)**
   - **Twitter - [@om_italiya](https://twitter.com/OmItaliya5)**
   - **Linkedin - [om-italiya](https://www.linkedin.com/in/om-italiya-0a68b3253/)**
 
